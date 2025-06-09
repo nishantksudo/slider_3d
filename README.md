@@ -1,3 +1,2 @@
-## slider_3d
-
-This is currently CSS file only, implementing javascript in the future.
+# silder_3d
+A 3-D slider of images made up of HTML,CSS and Javascript.
